@@ -1,4 +1,4 @@
-Installation
+## Installation </br>
 https://gencore.bio.nyu.edu/variant-calling-pipeline-gatk4/
 conda activate nf-env
 conda install -c bioconda gatk4
